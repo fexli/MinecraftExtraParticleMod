@@ -1,0 +1,19 @@
+{
+    "Identifier":[
+        "fexli",
+        "demo"
+    ],
+    "ParticleEffect":{
+        "Builder":[
+            {"Type":"int","id":"X"},
+            {"Expc":" "},
+            {"Type":"float","id":"c"},
+            {"Expc":" "},
+            {"Type":"boolean","id":"d"},
+            {"Expc":","},
+            {"Type":"double","id":"e"}
+        ]
+    },
+    "Textures":{
+    }
+}

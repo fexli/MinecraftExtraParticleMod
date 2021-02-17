@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.fexli.particle.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "CommandManagerMixin",
+    "ParticleManagerMixin",
+    "MinecraftServerReloadMixin"
+  ],
+  "client": [
+    "CampfireHigherMixin",
+    "RedDustParticleMixin",
+    "ParticleLimitMixin",
+    "ParticleCommandMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

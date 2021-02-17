@@ -1,0 +1,14 @@
+{
+  "block.fexli.green_curtain": "绿幕",
+  "commands.particlehelper.success.dumo": "/particle fexli:dumo [坐标<x> <y> <z>] [漂移速度<x> <y> <z>] <移动速度> <创建数量> [force(强制显示)|normal] [允许观察的玩家]",
+  "commands.particlehelper.success": "选择需要解析的粒子名称，获取执行粒子指令的帮助",
+  "commands.particlehelper.success.dot": "/particle fexli:dot [rgb<r> <g> <b>] <缩放大小> [坐标<x> <y> <z>] [漂移速度<x> <y> <z>] <移动速度> <创建数量> [force(强制显示)|normal] [允许观察的玩家] rgb范围为(-1~255)当rgb通道值为-1时，该通道将启用随机值",
+  "commands.particlehelper.success.other": "/particle <name> [坐标<x> <y> <z>] [漂移速度<x> <y> <z>] <移动速度> <创建数量> [force(强制显示)|normal] [允许观察的玩家]",
+  "commands.python.execute.filenotexist": "待执行python文件 %s 不存在！",
+  "commands.python.execute.failure": "执行python指令失败：%s",
+  "commands.python.execute.finish": "执行python指令 %s 完成！[耗时%.3f秒]",
+  "commands.python.execute.lineerr": "[err]%s",
+  "commands.python.execute.line": "%s",
+  "commands.python.help": "/python [filename] 运行指定的python文件",
+  "commands.python.warn": "/python指令正处于测试阶段,请勿随意使用！"
+}

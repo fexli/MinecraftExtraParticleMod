@@ -1,0 +1,8 @@
+{
+  "block.fexli.green_curtain": "Green Curtain Block", 
+  "commands.particlehelper.success.dumo": "/particle fexli:dumo [pos<x> <y> <z>] [delta<x> <y> <z>] <speed> <count> [force|normal] [player]",
+  "commands.particlehelper.success": "Select the name of the particle to be parsed and get help to execute the particle command",
+  "commands.particlehelper.success.dot": "/particle fexli:dot [rgb<r> <g> <b> in(-1~255)] <scale> [pos<x> <y> <z>] [delta<x> <y> <z>] <speed> <count> [force|normal] [player]",
+  "commands.particlehelper.success.other": "/particle <name> [pos<x> <y> <z>] [delta<x> <y> <z>] <speed> <count> [force|normal] [player]"
+
+}

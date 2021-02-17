@@ -1,0 +1,41 @@
+Extra Particle Mod Updated Log
+0.0.8-e
+ -修改/fxltest draw为draw2D
+ -添加/fxltest drawT <expr:x,y,z,ts,te,step>
+0.0.8-d
+ -dumed-dumper IExpression->FExpression
+ -添加了表达式支持
+ -修复由于堆溢出造成的游戏崩溃
+ -添加/fxltest expr <expr:x=>
+ -添加/fxltest draw coordinate <expr:y=>
+ -添加//r指令快速reload
+0.0.8-c
+ -修复一些bug
+0.0.8-b
+ -添加/exparticle指令，注册custom指令分支
+ -完成Load部分json数据读取
+ -修复若干bug
+0.0.7
+ -初步测试/exparticle指令
+ -完善json读取机制[~40%]
+ -添加custom粒子，并为其添加自定义json支持
+0.0.6
+ -/python指令可行性测试通过，等待使用场景
+ -添加/particlehelper指令
+ -创建custom粒子，并完成json读取构建
+0.0.5
+ -添加rainbow粒子
+ -初步测试/python指令
+ -修复一些bug
+0.0.4
+ -修改p:[]粒子大小
+ -修复一些bug
+0.0.3
+ -为dot_change粒子添加自定义支持
+ -添加star粒子
+0.0.2
+ -添加dot粒子
+ -添加dot_change粒子
+ -添加p:[]粒子
+0.0.1
+ -创建mod，添加dumo粒子
