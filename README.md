@@ -1,5 +1,6 @@
 
 # Minecraft Extra Particle Mod(Fabric Version)  
+![ind](./indexMod.png)  
 这是一个我的世界粒子mod的模板mod，它提供了我的世界粒子管理器从而可以使您编写的粒子被快速的添加到游戏中(使用/particle指令即可)、同时附带有几种基础的粒子(命名空间为fexli)以供您在编写自己的粒子时进行参考。这几种粒子的说明文档在[说明-0.0.8-b.xlsx](./说明-0.0.8-b.xlsx)中，您可以打开进行查看。另外在release中我已上传最新的0.0.8e版本的成品，需要配合fabric-api来使用  
 ### 注意:本模组支持ReplayMod但是请不要在短时间内快速拖动Replay时间轴，避免因瞬间加载的粒子过多导致游戏卡顿/崩溃(这个是Replay的锅)！  
 ### 注意2:由于1.16以后Mojang对World进行了大改，将ServerWorld和ClientWorld区分开来，导致本模组全部代码需要重新修改！并且还有一些小的错误需要修补，需要移植更新的同学请自行修改！
